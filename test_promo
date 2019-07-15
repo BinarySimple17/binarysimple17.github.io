@@ -1,0 +1,33 @@
+<style>
+   body{
+    background-color: #303030; /* Цвет фона веб-страницы */
+    font-family: "Verdana", Times, serif;
+   } 
+   .letter {
+    color: red; /* Цвет символа */
+    font-size: 200%; /* Размер шрифта */
+   } 
+   h1 {
+       color: #fcc625; /* Цвет текста */
+   }
+   p {
+    color: #D9D3C9; /* Цвет текста */
+   }
+   ul {
+    color: #D9D3C9; /* Цвет текста */
+   }
+   tim {
+       color: #000000;
+       background-color: #fcc625; 
+       font-weight: bold;
+   }
+   </style>
+   
+
+<h1 style="text-align: center;">Featured streamer</h1>
+<h3 style="text-align: center;">RedneckCyberPro</h3>
+<p style="text-align: center;"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7885bd6c-63f9-4171-96b2-be46809bd21c-profile_image-70x70.png" alt="redneckcyberpro" style=""><br></p>
+
+<ul><li>In the list of seasons added a new "season" - Lifetime. It contains data accumulating by the PUBG API from October 2018.</li>
+</ul><font color="#d9d3c9">Featured streamer -&nbsp;<a href="https://www.twitch.tv/redneckcyberpro" style="color:#fcc625">RedneckCyberPro!</a> Watch him tomorrow 
+<p style="text-align: center;"><tim>21 may 2019 05:00PM PCT</tim></p></font>
