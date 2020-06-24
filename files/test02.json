@@ -1,0 +1,16 @@
+{
+    "daily_meals": 
+	[
+		{ "counter":1,
+		  "meals": [ 
+					{ "name":"блюдо 1",
+					  "components":[ 
+									{"product": { "name":"вода",
+									  			  "cal":125.2 },
+									"weight":1}
+								]
+					}
+					]
+		  }
+	]
+}
