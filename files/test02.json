@@ -1,11 +1,15 @@
 {
     "daily_meals": 
+	"id":4,
 	[
-		{ "counter":1,
+		{ "id":3,
+		  "counter":1,
 		  "meals": [ 
-					{ "name":"блюдо 1",
+					{ "id":2,
+					  "name":"блюдо 1",
 					  "components":[ 
-									{"product": { "name":"вода",
+									{"product": { "id" : 1,
+												  "name":"вода",
 									  			  "cal":125.2 },
 									"weight":1}
 								]
