@@ -1,6 +1,5 @@
-{
-    "daily_meals": 
-	"id":4,
+{   "id":4,
+    "daily_meals": 	
 	[
 		{ "id":3,
 		  "counter":1,
