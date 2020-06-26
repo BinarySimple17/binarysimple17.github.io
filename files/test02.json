@@ -7,7 +7,8 @@
 					{ "id":2,
 					  "name":"блюдо 1",
 					  "components":[ 
-									{"product": { "id" : 1,
+									{"id":5,
+										"product": { "id" : 1,
 												  "name":"вода",
 									  			  "cal":125.2 },
 									"weight":1}
