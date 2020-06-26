@@ -8,10 +8,10 @@
 					  "name":"блюдо 1",
 					  "components":[ 
 									{"id":5,
-										"product": { "id" : 1,
+									  "product": { "id" : 1,
 												  "name":"вода",
 									  			  "cal":125.2 },
-									"weight":1}
+									 "weight":1}
 								]
 					}
 					]
